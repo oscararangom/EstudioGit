@@ -2,4 +2,4 @@ hola, prueba 2
 aprendiendo ando.
 
 vamos a utilizar los comandos para mover nuestros archivos entre los distintos estados de Git.
-git, comando git reset head
+git, comando git reset head..
